@@ -1,0 +1,114 @@
+@import url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fadme.media%2Fsvoboda-kultura%2Fvostochnye-devushki-raskryli-25-sekretov-kotorye-pozvolyayut-im-vyglyadet-na-20-s-hvostikom-nezavisimo-ot-vozrasta-2436715%2F&psig=AOvVaw0kF_YFe8xcmT1xwo4it8GB&ust=1682658132375000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCdpZSkyf4CFQAAAAAdAAAAABAE');
+body{
+    background-image: linear-gradient(#636162, #b1afaf);
+    height: 122vh;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+*{
+    margin: 0px; padding: 0px; font-family: 'Monsterrat', sans-serif;
+}
+.main{
+    background-color: white;
+    height: auto;
+    width: 650px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+}
+.left{
+    background-color: darkolivegreen;
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+.right{
+    width: 450px;
+    float: left;
+}
+.profile-img{
+    height: 180px;
+    width: 180px;
+    background-color: #ddd;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    border: 10px solid #fdd03b;
+    box-shadow: 6px 7px 9px 5px #fbb03b73;
+}
+.profile-img img{
+    width: 100%;
+    border-radius: 50%;
+}
+.box-1{
+    position: relative;
+}
+.heading{
+    background-color: #4b4b4b;
+    padding: 10px;
+    color: fbb03b;
+    text-align: left;
+    padding-left: 20px;
+    margin-right: -15px;
+}
+.heading::after{
+    content: '';
+    position: absolute;
+    width: 21px;
+    height: 18px;
+    background-color: #fff;
+    left: 191px;
+    top: 26px;
+    transform:(56deg);
+    z-index: -1;
+}
+.p1{
+    padding: 9px 10px;
+    font-size: 11px;
+}
+.icons1{
+    font-size: 1px!important;
+    padding-right: 10px!important;
+    vertical-align: sub;
+}
+.skill-container{
+    width: 90%;
+    background-color: 4d4d4d;
+    margin: 0px 10px;
+}
+.skill{
+    text-align: right;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: ghostwhite;
+}
+.html{
+    width: 90%;
+    background-color: white;
+}
+.css{
+    width: 80%;
+    background-color: white;
+}
+js{
+    width: 85%;
+    background-color: white;
+}
+.jquery{
+    width: 80%;
+    background-color: white;
+}
+.web{
+    width: 85%;
+    background-color: white;
+}
+.gra{
+    width: 65%;
+    background-color: white;
+} 
+.icons2{
+    padding: 18px 10px;
+} 
+
